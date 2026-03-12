@@ -22,6 +22,8 @@ Descarga el archivo `.deb` y ejecuta:
 sudo apt install ./easyrsgain-suite_1.2_all.deb
 \`\`\`
 
+
+
 <img width="1440" height="900" alt="01" src="https://github.com/user-attachments/assets/e673fe0d-3d4c-4ac4-8104-8456c400150d" />
 
 <img width="1440" height="900" alt="02" src="https://github.com/user-attachments/assets/ed06e8c1-9081-4ee0-a1c4-4dc5e178df97" />
