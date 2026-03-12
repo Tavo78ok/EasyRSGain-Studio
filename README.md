@@ -9,7 +9,7 @@ Herramienta profesional para la normalización de audio (LUFS) y edición masiva
 
 - **Soporte de Carátulas**: Aplica portadas .jpg/.png a álbumes completos con un clic.
 
-- **Interfaz Moderna**: Optimizada para XFCE y entornos oscuros.
+- **Interfaz Moderna**: Optimizada para cualquier entorno de escritorios, ya sean claros u oscuros.
 
 -  **Requisitos:
 - Rsgain
@@ -21,7 +21,6 @@ Descarga el archivo `.deb` y ejecuta:
 \`\`\`bash
 sudo apt install ./easyrsgain-suite_1.2_all.deb
 \`\`\`
-
 
 
 <img width="1440" height="900" alt="01" src="https://github.com/user-attachments/assets/e673fe0d-3d4c-4ac4-8104-8456c400150d" />
