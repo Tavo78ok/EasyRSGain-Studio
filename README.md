@@ -12,12 +12,9 @@ Herramienta profesional para la normalización de audio (LUFS) y edición masiva
 - **Interfaz Moderna**: Optimizada para XFCE y entornos oscuros.
 
 -  **Requisitos:
--  
--  Rsgain
--  
--  python3
--  
--  python3-mutagen
+- Rsgain
+-Python3
+-Python3-mutagen
   
 ## Instalación en Debian
 Descarga el archivo `.deb` y ejecuta:
